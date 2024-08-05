@@ -43,7 +43,6 @@ int main()
   printf("                    ");
   typewriter_print("WELCOME TO FILE ENCRYPTION SYSTEM", 60, 197);
   printf("                                                 ");
-  typewriter_print(" -created by Luv Valecha(B23CM1022)", 30, 27);
   typewriter_print("Choose Your Task:", 70, 208);
   typewriter_print("1. File Encryption", 70, 208);
   typewriter_print("2. File Decryption", 50, 208);
