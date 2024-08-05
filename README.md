@@ -2,6 +2,27 @@
 
 This project is a simple file encryption and decryption system written in C. The system allows users to encrypt and decrypt text files using a user-defined key. This README file provides an overview of the project's features, usage instructions, and the structure of the code.
 
+## Table of Contents
+
+1. [Features](#features)
+2. [Code Structure](#code-structure)
+   1. [Main Function](#main-function)
+   2. [Menu Function (`menu`)](#menu-function-menu)
+   3. [Typewriter Print Function (`typewriter_print`)](#typewriter-print-function-typewriter_print)
+   4. [Input Functions](#input-functions)
+   5. [Key Extraction Function (`extract_key`)](#key-extraction-function-extract_key)
+   6. [Encryption/Decryption Function (`encrypt_decrypt_file`)](#encryptiondecryption-function-encrypt_decrypt_file)
+   7. [Database Functions](#database-functions)
+3. [Usage Instructions](#usage-instructions)
+   1. [Compile the Program](#compile-the-program)
+   2. [Run the Program](#run-the-program)
+4. [Main Menu](#main-menu)
+   1. [File Encryption](#file-encryption)
+   2. [File Decryption](#file-decryption)
+   3. [Exit](#exit)
+5. [Notes](#notes)
+6. [Future Enhancements](#future-enhancements)
+
 ## Features
 
 1. **File Encryption**:
